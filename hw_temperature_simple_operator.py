@@ -8,7 +8,7 @@ date = "24.07.2020"
 temp_mo = 10.91
 temp_no = 30.68
 temp_ev = 25.11
-temp_ni = 10.32
+temp_ni = 6.32
 
 # CALCULATIONS
 temp_avg = (temp_mo + temp_no + temp_ev + temp_ni) / 4
